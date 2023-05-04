@@ -10,4 +10,4 @@ JfreePlotter and regPlotter Program - Proj2\Tester Classes\regPlotter & JfreePlo
 
 JfreePlotter and regPlotter Output - In Both Plotter Output folder
 
-MiniReports and Research Project - In Reports Folder
+MiniReport, Research Project, and Formula Sheet - In Reports Folder
